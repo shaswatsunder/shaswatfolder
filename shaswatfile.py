@@ -1,3 +1,4 @@
 def disp(x):
-	print "The number is :",x
+	if x<20:
+		print "The number is :",x
 disp(10)
